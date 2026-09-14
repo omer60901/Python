@@ -13,6 +13,7 @@ def Rectangle(height,width):
 
 def main():
     my_list = [10, 20, 4, 45, 99, 99, 4]
+    print("The second largest number is:")
     print(secondLargest(my_list))
     print(Rectangle(10,10))
 
